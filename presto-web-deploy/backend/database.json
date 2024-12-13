@@ -1,0 +1,22 @@
+{
+  "admins": {
+    "s@e.c": {
+      "name": "s",
+      "password": "s",
+      "store": {
+        "presentations": [
+          {
+            "id": "1731634161815",
+            "name": "1",
+            "slides": [
+              {
+                "id": "1",
+                "elements": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
